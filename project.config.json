@@ -1,0 +1,137 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"miniprogramRoot": "dist/wx/",
+	"compileType": "miniprogram",
+	"appid": "wx01ec6d67aa786a67",
+	"projectname": "book-share",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 13,
+			"list": [
+				{
+					"id": -1,
+					"name": "我的",
+					"pathName": "pages/my/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 1,
+					"name": "我的录入",
+					"pathName": "pages/my/entry/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "扫码",
+					"pathName": "pages/scanCode/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "办公地点",
+					"pathName": "pages/my/office/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "管理员账户",
+					"pathName": "pages/my/account/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 5,
+					"name": "书籍类目管理",
+					"pathName": "pages/my/storage/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "管理员账户管理",
+					"pathName": "pages/my/account/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "办公地点员工",
+					"pathName": "pages/my/staff/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "授权登录",
+					"pathName": "pages/grant/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "首页",
+					"pathName": "pages/index/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "登录",
+					"pathName": "pages/login/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "机构管理",
+					"pathName": "pages/my/mechanism/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "编辑账户",
+					"pathName": "pages/my/account/edit/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "我的借阅",
+					"pathName": "pages/my/borrow/main",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}

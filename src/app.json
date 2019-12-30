@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/grant/main",
+    "pages/login/main",
+    "pages/scanCode/main",
+    "pages/my/main",
+    "pages/my/office/main",
+    "pages/my/account/main",
+    "pages/my/account/edit/main",
+    "pages/my/storage/main",
+    "pages/my/staff/main",
+    "pages/my/mechanism/main",
+    "pages/my/mechanism/edit/main",
+    "pages/my/entry/main",
+    "pages/my/entry/edit/main",
+    "pages/my/borrow/main",
+    "pages/my/statistics/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "鲨鱼书院",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#327AED",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "static/images/find-selected.png",
+        "iconPath": "static/images/find-default.png",
+        "pagePath": "pages/index/main",
+        "text": "书架"
+      },
+      {
+        "selectedIconPath": "static/images/my-selected.png",
+        "iconPath": "static/images/my-default.png",
+        "pagePath": "pages/my/main",
+        "text": "我"
+      }
+    ]
+  }
+}
