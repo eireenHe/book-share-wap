@@ -21,4 +21,7 @@ npm run build --report
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ![avatar](/static/images/show/home.jpeg)
+![avatar](/static/images/show/my.jpeg)
+![avatar](/static/images/show/detail1.jpeg)
+![avatar](/static/images/show/detail2.jpeg)
 
