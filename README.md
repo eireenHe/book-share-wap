@@ -19,11 +19,11 @@ npm run build --report
 ```
 
 ## 部分小程序截图
-``` bash
+
 ![avatar](/static/images/show/home.jpeg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![avatar](/static/images/show/my.jpeg) <br>
 
 ![avatar](/static/images/show/detail1.jpeg) <br>
 
 ![avatar](/static/images/show/detail2.jpeg)
-```
+
