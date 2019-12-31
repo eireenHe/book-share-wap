@@ -18,12 +18,10 @@ npm run build
 npm run build --report
 ```
 
-## 部分小程序截图
+## 小程序部分截图
 
-![avatar](/static/images/show/home.jpeg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![avatar](/static/images/show/home.jpeg) &nbsp;&nbsp;
 ![avatar](/static/images/show/my.jpeg) <br>
-
 ![avatar](/static/images/show/detail1.jpeg) <br>
-
 ![avatar](/static/images/show/detail2.jpeg)
 
