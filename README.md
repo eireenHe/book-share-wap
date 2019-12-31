@@ -18,10 +18,12 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-![avatar](/static/images/show/home.jpeg) &nbsp;&nbsp;
+## 部分小程序截图
+``` bash
+![avatar](/static/images/show/home.jpeg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![avatar](/static/images/show/my.jpeg) <br>
-![avatar](/static/images/show/detail1.jpeg) <br>
-![avatar](/static/images/show/detail2.jpeg)
 
+![avatar](/static/images/show/detail1.jpeg) <br>
+
+![avatar](/static/images/show/detail2.jpeg)
+```
